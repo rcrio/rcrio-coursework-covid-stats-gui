@@ -9,7 +9,7 @@ A JavaFX application with a sleek design that allows users to see 3 panels of st
 - Collaborators: Darren, Jen and Tom (GitHub links to be added)
 
 ## Gif Demo
-![Covid-19 GUI Demo](to be added)
+![Covid-19 GUI Demo](https://i.imgur.com/d3azSoj.gif)
 
 ## Video Demo and Explanation
 (to be added)
