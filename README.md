@@ -5,6 +5,7 @@ A JavaFX application with a sleek design that allows users to see 3 panels of st
 ## Coursework Details:
 - The 4th coursework for KCL's 1st year programming module, 4CCS1PPA 
 - Grade: 73%
+- Group coursework (4 collaborators)
 - Collaborators: Darren, Jen and Tom (GitHub links to be added)
 
 ## Gif Demo
